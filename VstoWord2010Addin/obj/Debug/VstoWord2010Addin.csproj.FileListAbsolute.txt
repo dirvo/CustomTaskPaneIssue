@@ -1,0 +1,12 @@
+e:\Projects\CustomTaskPaneIssue\VstoWord2010Addin\bin\Debug\VstoWord2010Addin.dll
+e:\Projects\CustomTaskPaneIssue\VstoWord2010Addin\bin\Debug\VstoWord2010Addin.pdb
+e:\Projects\CustomTaskPaneIssue\VstoWord2010Addin\bin\Debug\VstoWord2010Addin.dll.manifest
+e:\Projects\CustomTaskPaneIssue\VstoWord2010Addin\bin\Debug\VstoWord2010Addin.vsto
+e:\Projects\CustomTaskPaneIssue\VstoWord2010Addin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+e:\Projects\CustomTaskPaneIssue\VstoWord2010Addin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+e:\Projects\CustomTaskPaneIssue\VstoWord2010Addin\obj\Debug\VstoWord2010Addin.Properties.Resources.resources
+e:\Projects\CustomTaskPaneIssue\VstoWord2010Addin\obj\Debug\VstoWord2010Addin.UserControl1.resources
+e:\Projects\CustomTaskPaneIssue\VstoWord2010Addin\obj\Debug\VstoWord2010Addin.csproj.GenerateResource.Cache
+e:\Projects\CustomTaskPaneIssue\VstoWord2010Addin\obj\Debug\VstoWord2010Addin.dll
+e:\Projects\CustomTaskPaneIssue\VstoWord2010Addin\obj\Debug\VstoWord2010Addin.pdb
+E:\Projects\CustomTaskPaneIssue\VstoWord2010Addin\obj\Debug\VstoWord2010Addin.csprojResolveAssemblyReference.cache

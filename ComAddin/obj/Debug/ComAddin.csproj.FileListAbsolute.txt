@@ -1,0 +1,7 @@
+e:\Projects\CustomTaskPaneIssue\ComAddin\obj\Debug\ComAddin.csprojResolveAssemblyReference.cache
+e:\Projects\CustomTaskPaneIssue\ComAddin\obj\Debug\ComAddin.UserControl1.resources
+e:\Projects\CustomTaskPaneIssue\ComAddin\obj\Debug\ComAddin.csproj.GenerateResource.Cache
+e:\Projects\CustomTaskPaneIssue\ComAddin\bin\Debug\ComAddin.dll
+e:\Projects\CustomTaskPaneIssue\ComAddin\bin\Debug\ComAddin.pdb
+e:\Projects\CustomTaskPaneIssue\ComAddin\obj\Debug\ComAddin.dll
+e:\Projects\CustomTaskPaneIssue\ComAddin\obj\Debug\ComAddin.pdb
