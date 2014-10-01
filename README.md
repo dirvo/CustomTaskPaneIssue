@@ -1,11 +1,11 @@
 CustomTaskPaneIssue
 ===================
 
-Sample project for an issue with custom task panes in Word 2010.
+##### Sample project for an issue with custom task panes in Word 2010.
 
 The issue is that when opening an existing document, or when creating a new document, Word stops refreshing its built-in task panes (i.e. the Navigation pane, Styles pane, Apply Styles pane and Reveal Formatting pane) when an add-in adds its own custom task pane.
 
-Steps to reproduce the behavior (see a full sample solution at https://github.com/dirvo/CustomTaskPaneIssue):
+## Steps to reproduce the behavior
 
 1. Create a new VSTO Word 2010 solution using Visual Studio.
 2. Add a user control UserControl1 (Windows Forms) to the project and add a button to the user control.
@@ -20,7 +20,9 @@ Steps to reproduce the behavior (see a full sample solution at https://github.co
 11. The Navigation pane, Styles pane, Apply Styles pane and Reveal Formatting pane are not updated as they normally would be without the add-in.
 12. Click on the button in the custom task pane. Now the Navigation pane and Styles pane are refreshed. It seems that giving focus to the custom task pane triggers a refresh of the built-in task panes.
 
-Expected behavior: The display of the custom task pane should not have any influence on how Word refreshes its built-in task panes.
+## Expected behavior
+
+The display of the custom task pane should not have any influence on how Word refreshes its built-in task panes.
 
 Further findings:
 
